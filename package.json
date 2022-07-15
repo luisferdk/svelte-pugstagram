@@ -11,7 +11,7 @@
   "author": "Luisferdk <luisdk.03@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "svelte": "^3.21.0"
+    "svelte": "^3.49.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
